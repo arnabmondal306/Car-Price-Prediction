@@ -1,1 +1,2 @@
 # Car-Price-Prediction
+With this project, we aim to simplify the car buying and selling process, allowing consumers to make informed decisions and enabling dealers and manufacturers to optimize pricing strategies. The journey begins by collecting and analyzing relevant data, then proceeds to the development of predictive models that offer insights into car pricing trends. Ultimately, the project promises to be a valuable resource for anyone navigating the dynamic and competitive automotive marketplace.
